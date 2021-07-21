@@ -1,2 +1,0 @@
-# wbnodebeginone
-Begin app
